@@ -1,0 +1,7 @@
+1- Teamwork -->different branches
+
+2- Software best practice 
+-->production (main)
+-->branch(dev)
+
+3-
